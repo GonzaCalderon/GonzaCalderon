@@ -1,4 +1,4 @@
-Hola! Mi nombre es Gonzalo Calderón. Soy de Buenos Aires Argentina.
+Hola! Mi nombre es Gonzalo Calderón. Soy de la Ciudad de Buenos Aires, Argentina.
 
 Llevo estudiando el lenguaje JAVA desde 0 en el último año y medio. Mi actual objetivo es encontrar un trabajo en donde pueda progresar profesionalmente
 a la vez que estudio nuevas herramientas.
